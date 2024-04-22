@@ -1,0 +1,17 @@
+Nuxt:
+window.$nuxt.context.env
+window.$nuxt.$root.$options.context
+window.$nuxt.$root.$options.context.config
+this.$store.state.sharedEnv.canonicalDomain
+
+Next:
+window.__BUILD_MANIFEST
+
+Open File:
+/_next/static/[random]/_buildManifest.js
+/_next/static/[css.js]/
+
+Next Dump Config:
+window.__NEXT_DATA__
+window.__NEXT_DATA__.runtimeConfig
+window.__NEXT_DATA__.runtimeConfig
